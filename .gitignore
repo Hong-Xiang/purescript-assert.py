@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# purescript-python
+.pure-py/
+pure-py.json
+
+.spago
+.vscode
+output/
+.purs-repl
