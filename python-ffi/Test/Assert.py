@@ -9,7 +9,7 @@ def assert_(message):
     return succ
 
 
-globals()["assert"] = assert_
+globals()["assert'"] = assert_
 
 
 def checkThrows(fn):
